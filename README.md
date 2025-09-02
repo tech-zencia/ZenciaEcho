@@ -100,7 +100,7 @@ Compare ZenciaEcho's natural speech against traditional robotic TTS:
 
 **Proprietary Software - All Rights Reserved**
 
-This project is closed-source. ZenciaEcho's code, models, and neural network weights are proprietary and confidential. The contents of this repository (documentation and samples) are provided for evaluation purposes only; unauthorized copying, redistribution, or reverse engineering is strictly prohibited.
+Zencia Echo is closed-source. ZenciaEcho's code, models, and neural network weights are proprietary and confidential. The contents of this repository (documentation and samples) are provided for evaluation purposes only; unauthorized copying, redistribution, or reverse engineering is strictly prohibited.
 
 All intellectual property rights are reserved by Zencia AI Tech Pvt Ltd. Use of ZenciaEcho is limited to the hosted demo and licensed API access under our Terms of Service. Commercial use requires a separate enterprise license agreement.
 
@@ -131,3 +131,4 @@ Your feedback helps us improve ZenciaEcho and better serve the global voice AI c
 ---
 
 **ZenciaEcho** - *Making lifelike voice AI accessible worldwide*
+
