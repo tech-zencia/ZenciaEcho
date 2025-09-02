@@ -60,7 +60,7 @@ This interactive demo lets users evaluate voice quality without exposing any pro
 
 ---
 
-## Sample Outputs
+## Sample Outputs :
 
 Compare ZenciaEcho's natural speech against traditional robotic TTS:
 
@@ -131,4 +131,5 @@ Your feedback helps us improve ZenciaEcho and better serve the global voice AI c
 ---
 
 **ZenciaEcho** - *Making lifelike voice AI accessible worldwide*
+
 
